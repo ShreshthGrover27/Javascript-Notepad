@@ -1,0 +1,20 @@
+body{
+   background-color: rgb(193, 193, 193);
+   color: black;
+}
+#text{
+   font-size: 20px;
+   font-weight: 540;
+}
+.container{
+   margin-top: 5px;
+}
+.inputbox,.save,.clear{
+   display: flex;
+   justify-content: center;
+}
+#save ,#clear{
+   width: 20vw;
+   margin: 5px;
+   border-radius: 5px;
+}
